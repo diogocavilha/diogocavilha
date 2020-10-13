@@ -1,16 +1,14 @@
-### Hi there 👋
+# Diogo Cavilha
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogocavilha-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diogocavilha/) [![Email](https://img.shields.io/badge/Email-diogocavilha%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:diogocavilha@gmail.com)
 
-<!--
-**diogocavilha/diogocavilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! 👋
+My name is Diogo Cavilha and I live in Brazil.  
+I'm a Back end engineer who loves creating and testing new ways of getting the job done.
 
-Here are some ideas to get you started:
+- I’m currently working fully remote to a company from another state of Brazil.
+- I'm currently learning lots of things about Java, Kotlin, Python and a bit of Go.
+- I love Linux and shellscripts!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to get in touch! :blush:
+
+![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=diogocavilha&show_icons=true&theme=merko)
