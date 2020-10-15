@@ -1,5 +1,5 @@
 # Diogo Cavilha
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogocavilha-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diogocavilha/) [![Email](https://img.shields.io/badge/Email-diogocavilha%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:diogocavilha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-diogocavilha-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diogocavilha/) [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5547996676662)](https://api.whatsapp.com/send?phone=+5547996676662) [![Gmail](https://img.shields.io/badge/-diogocavilha%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:diogocavilha@gmail.com)
 
 ## Hello! 👋
 My name is Diogo Cavilha and I live in Brazil.  
