@@ -7,7 +7,7 @@ I'm a Backend engineer who loves creating and testing new ways of getting the jo
 
 - I love PHP, Linux and Shellscript! :heart_eyes:
 - I’m currently working fully remote for a company from Rio de Janeiro.
-- I'm currently learning lots of things about Java, Kotlin, Python and Go.
+- I'm currently working with and learning lots of things about Java, Kotlin, Python and Go.
 
 Feel free to get in touch! :blush:
 
