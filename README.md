@@ -6,8 +6,8 @@ My name is Diogo Cavilha and I live in Brazil.
 I'm a Backend engineer who loves creating and testing new ways of getting the job done.
 
 - I love PHP, Linux and Shellscript! :heart_eyes:
-- I’m currently working fully remote for a company from Rio de Janeiro.
-- I'm currently working with and learning lots of things about Java, Kotlin, Python and Go.
+- I’m currently working fully remote for a company from São Paulo as a senior backend PHP engineer.
+- I have also some experience on Java, Kotlin, Python and Go.
 
 Feel free to get in touch! :blush:
 
