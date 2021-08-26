@@ -11,4 +11,4 @@ I'm a Backend engineer who loves creating and testing new ways of getting the jo
 
 Feel free to get in touch! :blush:
 
-![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=diogocavilha&show_icons=true&theme=merko)
+![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=diogocavilha&show_icons=true&theme=default)
