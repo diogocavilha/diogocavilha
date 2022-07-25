@@ -3,7 +3,7 @@
 
 ## Hello! 👋
 My name is Diogo Cavilha and I live in Brazil.  
-I'm a Backend engineer who loves creating and testing new ways of getting the job done.
+I'm a backend engineer who loves creating and testing new ways of getting the job done.
 
 - I love Linux and Shellscript! :heart_eyes:
 - I'm skilled in PHP, NodeJS and Python and have also some experience with Go.
