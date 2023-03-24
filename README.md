@@ -3,11 +3,11 @@
 
 ## Hello! 👋
 My name is Diogo Cavilha and I live in Brazil.  
-I'm a backend engineer who loves creating and testing new ways of getting the job done.
+I'm a software engineer who loves creating and testing new ways of getting the job done.
 
 - I love Linux and Shell Script! :heart_eyes:
-- I'm skilled in PHP, NodeJS and Python and I have also some experience with other programming languages such as Java (with Spring Boot) and Go.
-- I’m currently working fully remote for a company from São Paulo as a senior backend engineer, creating and maintaining microservices.
+- I'm skilled in PHP, NodeJS, Python and some of ReactJS although I have also some experience with other programming languages such as Java (with Spring Boot) and Go.
+- I’m currently working fully remote as a senior backend engineer, creating and maintaining microservices.
 
 Feel free to get in touch! :blush:
 
